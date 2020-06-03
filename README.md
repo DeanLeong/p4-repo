@@ -9,38 +9,31 @@
 You are one week away from graduating your Software Engineering Immersive... Needless to say, we're incredibly proud, and you should be too!
 
 ## Table of Contents <!-- omit in toc -->
-- [OVERVIEW](#OVERVIEW)
-  - [Important Dates](#Important-Dates)
-  - [Two Quick Notes](#Two-Quick-Notes)
-  - [The MVP Requirements](#The-MVP-Requirements)
-- [GETTING STARTED](#GETTING-STARTED)
-  - [Step 1. Make A New Repo](#Step-1-Make-A-New-Repo)
-  - [Step 2. Pitch Your Idea](#Step-2-Pitch-Your-Idea)
-  - [Step 3. Get Hacking](#Step-3-Get-Hacking)
-- [EVALUATION](#EVALUATION)
-- [PLAGIARISM](#PLAGIARISM)
+- [OVERVIEW](#overview)
+  - [Important Dates](#important-dates)
+  - [The MVP Requirements](#the-mvp-requirements)
+- [GETTING STARTED](#getting-started)
+  - [Step 1. Make A New Repo](#step-1-make-a-new-repo)
+  - [Step 2. Pitch Your Idea](#step-2-pitch-your-idea)
+  - [Step 3. Get Hacking](#step-3-get-hacking)
+- [EVALUATION](#evaluation)
+- [PLAGIARISM](#plagiarism)
 
 # OVERVIEW
 
 ## Important Dates
 
-> **Pitches Due:** 5/11/20 at 10:00AM
+> **Pitches Due:** 6/8/20 at 10:00AM
 >
-> **_Something_ Deployed (Strong Recommendation) By:** 5/14/20 at 3:00PM
+> **_Something_ Deployed (Strong Recommendation) By:** 6/12/20 by 5:00PM
 > 
-> **Presentations:** 5/18/20 at 10:00AM
+> **Presentations:** 6/16/20 at 10:00AM
 
 <br>
 
 For your final project, you will build your very own full-stack, full-CRUD app, utilizing a RESTful JSON API with the so-called "React on Rails" stack.
 
 This project, like the others, will be a portfolio piece... **Your ultimate portfolio piece.** Build something you can be proud of– something that demonstrates an understanding of- and an ability- to use- the tools and techniques introduced to you over the last 3 months. It should be **functional with sufficient complexity** to really show off your new abilities.
-
-## Two Quick Notes
-
-1. While we've been somewhat lenient on certain requirements (_i.e._, minimum git commits) in your prior projects, _the requirements for your final project are non-negotiable_.
-
-2. If you have an idea that displays the requisite level of complexity, with a strong reason for utilizing a different tech stack, we're willing to hear you out. If you take this approach, you need a back up proposal that meets the React on Rails specs, in the event that we do not approve your alternate stack.
 
 ### So, this is what 3 months of grueling work has come to... <!-- omit in toc -->
 
@@ -59,7 +52,7 @@ This project, like the others, will be a portfolio piece... **Your ultimate port
   - Build a database with at least 3 tables:
     - 1 user table
     - 2 other tables, of your choosing
-    - There must be at least 2 pairs of associated tables. (1:m _or_ m:m)
+    - There must be at least 1 association between your tables. (1:m _or_ m:m)
   - Utilize **Rails** to define models for interacting with the database.
   - Implement Authentication using **JWT**.
   - Implement working generic controller actions for full-CRUD (`index`, `show`, `create`, `update`, `delete`) between the 2 non-user tables AND partial-CRUD (`create`, at least) for the user table.
@@ -83,7 +76,7 @@ _^ Unless it makes sense for that information to be restricted to particular use
 ### Styling <!-- omit in toc -->
 
 - Be styled with CSS (or SCSS, if you'd prefer).
-- Use flexbox for your indices (`display: flex`).
+- Use flexbox or Grid in your layout design.
 - Implement 2 media queries for responsive design on 3 screen sizes (including desktop).
 
 ### Linting <!-- omit in toc -->
@@ -96,7 +89,7 @@ _^ Unless it makes sense for that information to be restricted to particular use
 
 ### Deployment <!-- omit in toc -->
 
-- Deploy the fully functional front-end via Surge.
+- Deploy the fully functional front-end via Surge or netlify.
 - Deploy the back-end via Heroku.
 
 ### Procedural <!-- omit in toc -->
@@ -119,8 +112,6 @@ Like before, you will start by creating your project repository on your **person
 
 Before you start coding away, you will meet with all your instructors for a 5 minute pitch to get your idea approved. You must have your idea prepared in the repository's README.md file, **including all of the following items**, to get approved.
 
-(Frankly, Misha'll just be annoyed if you pitch without a thorough, organized `README.md` or hand-drawn wireframes and ERD models. You have a template and plenty of resources available to you. Do not slack off on this step. Use the resources available to you.)
-
 1. **Title:** A working title for your app.
 2. **Overview:** A brief explanation, in non-technical speak, summarizing the app.
    - **Features:** A full feature list for your MVP app.
@@ -132,7 +123,7 @@ Before you start coding away, you will meet with all your instructors for a 5 mi
    - **Dependencies:** A full list of all libraries, frameworks, etc.
 4. **Post-MVP:** Your goals for post-MVP, including features that you would like to implement once your MVP is complete.
 
-> [Project 4 README Template](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/blob/master/projects/project3-README-template.md)
+> [Project 4 README Template](./README-template.md)
 
 > ["How detailed should wireframes be?"](https://justuxdesign.com/blog/wireframe-fidelity)
 >
@@ -159,15 +150,17 @@ Remember:
 
 ### Getting Support <!-- omit in toc -->
 
-Each group will be given 5 (five) tokens, redeemable at any time during regular class time (subject to instructors' schedules), for 20 minutes. **Tokens cannot be transferred between groups - there is _still_ no black market for tokens.**
+Each student will be given 5 (five) tokens, redeemable at any time during regular class time (subject to instructors' schedules), for 20 minutes. **Tokens cannot be transferred between students - there is no black market for tokens.**
 
-Instructors will not be holding open office hours during project week. This is to give you the opportunity to solve issues and errors you run in to on your own and with your classmates. Shay, however, will still hold his hours as planned.
+Instructors will not be holding open office hours during project week. This is to give you the opportunity to solve issues and errors you run in to on your own and with your classmates. Your TA, however, will still hold their hours as planned.
 
-### Maximizing Effectiveness of Support Sessions <!-- omit in toc -->
+### How to submit a request for support <!-- omit in toc -->
 
-Prior to using one of your tokens, we **strongly** recommend that you first check with each of your groupmates to try to resolve it. If you're still stuck, create an issue ticket. This will provide the instructor with a point of reference regarding your code and the issue you are having and will enable us to give you more effective guidance.
+While it is important for you all to develope not only your coding skills but also you ability to debug code, please don't spin you wheels for too long. If you get stuck on an issue, we encourage you to attempt to fix it your self. This includes, reviewing your code, reading the error message and researching your issue through google. More often than not, that is enough to resolve your issue however if you find yourself spending too much time on one issue, create an issue ticket. This will provide the instructor with a point of reference regarding your code and the issue you are having and will enable us to give you more effective guidance.
 
-> [Project Issue Ticket Template](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/blob/master/projects/issue-ticket-template.md)
+> [Project Issue Ticket Template](./issue-ticket-template.md)
+
+We will be providing a survey link to sign up for support. You must include in the survey, your name and a link to the issue ticket. Also please remember to push up you code that is having the issue when signing up. Optionally, if you would like to schedule one-on-one ahead of time, you can provide a time slot for when you would like to meet with someone from the instructional team. We will do our best to reach out to you as close to your preferred time slot as possible.
 
 <br>
 
