@@ -2,18 +2,18 @@
 
 > The Project Planning section **should be completed** for your project pitch with instructors.
 >
-> To ensure correct Markdown, I recommend cloning this wiki and copy/pasting the raw template code.
+> To ensure correct Markdown, copy and paste the raw template code into your project repo README file. Remove ALL template instructions and replace with your project details.
 
 - [Overview](#overview)
 - [MVP](#mvp)
   - [Goals](#goals)
-  - [Libraries](#libraries)
+  - [Libraries and Dependencies](#libraries-and-dependencies)
   - [Client (Front End)](#client-front-end)
     - [Wireframes](#wireframes)
     - [Component Tree](#component-tree)
     - [Component Hierarchy](#component-hierarchy)
     - [Component Breakdown](#component-breakdown)
-    - [Component Estimates](#component-estimates)
+    - [Time Estimates](#time-estimates)
   - [Server (Back End)](#server-back-end)
     - [ERD Model](#erd-model)
 - [Post-MVP](#post-mvp)
@@ -47,9 +47,9 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 
 <br>
 
-### Libraries
+### Libraries and Dependencies
 
-> Use this section to list all supporting libraries and dependencies, and their role in the project.
+> Use this section to list all supporting libraries and dependencies, and their role in the project. Below is an example - this needs to be replaced!
 
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
@@ -65,7 +65,7 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 
 #### Wireframes
 
-> Use the Wireframes section to display desktop, tablet and mobile views.
+> Use the Wireframes section to display desktop, tablet and mobile views. No hand-drawn wireframes. Use a tool like wireframe.cc, Whimsical or AdobeXD
 
 ![Dummy Link](url)
 
@@ -125,7 +125,7 @@ src
 | Gallery Card | functional |   n   |   y   | _The cards will render the post info via props._                 |
 |    Footer    | functional |   n   |   n   | _The footer will show info about me and a link to my portfolio._ |
 
-#### Component Estimates
+#### Time Estimates
 
 > Use this section to estimate the time necessary to build out each of the components you've described above.
 
@@ -143,7 +143,7 @@ src
 
 #### ERD Model
 
-> Use this section to display an image of a computer generated ERD model.
+> Use this section to display an image of a computer generated ERD model. You can use draw.io, Lucidchart or another ERD tool.
 
 <br>
 
@@ -161,4 +161,4 @@ src
 
 ## Code Issues & Resolutions
 
-> Use this section to list of all major issues encountered and their resolution, if you'd like.
+> Use this section to list of all major issues encountered and their resolution.
