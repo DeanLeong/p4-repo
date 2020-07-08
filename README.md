@@ -24,14 +24,14 @@ You are one week away from graduating your Software Engineering Immersive... Nee
 ## Important Dates
 
 - **Pitches Due:** Monday, 7/13/20 at 9:00AM
-- **_Something_ Deployed (Strong Recommendation) By:** Friday, 7/17/20 by 5:00PM
+- **_Something_ Deployed (Strong Recommendation):** Friday, 7/17/20 by 5:00PM
 - **Presentations:** Wednesday, 7/22/20 at 10:00AM
 
 <br>
 
 For your final project, you will build your very own full-stack, full-CRUD app, utilizing a RESTful JSON API with the so-called "React on Rails" stack.
 
-This project, like the others, will be a portfolio piece... **Your ultimate portfolio piece.** Build something you can be proud of– something that demonstrates an understanding of- and an ability- to use- the tools and techniques introduced to you over the last 3 months. It should be **functional with sufficient complexity** to really show off your new abilities.
+This project, like the others, will be a portfolio piece... **Your ultimate portfolio piece.** Build something you can be proud of and that demonstrates an understanding of (and an ability to use) the tools and techniques you learned over the last 3 months. It should be **functional with sufficient complexity** to really show off your new abilities.
 
 ### So, this is what 3 months of grueling work has come to... <!-- omit in toc -->
 
@@ -51,7 +51,7 @@ This project, like the others, will be a portfolio piece... **Your ultimate port
   - Build a database with at least 3 tables:
     - There must be at least 1 association between your tables. (1:m _or_ m:m)
   - Utilize **Rails** to define models for interacting with the database.
-  - Implement working generic controller actions for full-CRUD (`index`, `show`, `create`, `update`, `delete`) between your non-User tables 
+  - Implement working generic controller actions for Full CRUD (`index`, `show`, `create`, `update`, `delete`) between your non-User tables 
     - _Note that if you choose to do Authentication, CRUD on your User table does not count toward this requirement._
 
 ### Client (Front End) <!-- omit in toc -->
@@ -63,7 +63,7 @@ This project, like the others, will be a portfolio piece... **Your ultimate port
   - Use _only_ React for DOM Manipulation.
 - Consume data from your **Ruby on Rails API**, and render that data in your components.
 - Utilize **React Router**, for client-side routing.
-- Demonstrate full CRUD actions ( `index`, `show`, `create`, `update`, and `delete` ) on the front-end.
+- Demonstrate Full CRUD actions ( `index`, `show`, `create`, `update`, and `delete` ) on the front end.
   - _Note that if you decide to implement Auth, your full CRUD actions must be covered amongst your non-User tables._
 
 ### Styling <!-- omit in toc -->
@@ -99,14 +99,14 @@ You know the drill!
 
 ## Step 1. Make A New Repo
 
-Like before, you will start by creating your project repository on your **personal** GitHub. (Please, do not name the repo "Project 4." It should be a descriptive or creative title, with the description explaining it's a student project.)
+Like before, you will start by creating your project repository on your **personal** GitHub. (Please do not name the repo "Project 4." It should be a descriptive or creative title, with the description explaining it's a student project.)
 
 ## Step 2. Pitch Your Idea
 
 Before you start coding away, you will meet with all your instructors for a 5 minute pitch to get your idea approved. You must have your idea prepared in the repository's README.md file, **including all of the following items**, to get approved.
 
 1. **Title:** A working title for your app.
-2. **Overview:** A brief explanation, in non-technical speak, summarizing the app.
+2. **Overview:** A brief explanation in non-technical terms, summarizing the app.
    - **Features:** A full feature list for your MVP app.
    - **Goals:** The overarching goals for your project.
    - **Challenges:** An explanation of the challenges you expect to face with this project.
@@ -145,13 +145,13 @@ Remember:
 
 ### Getting Support <!-- omit in toc -->
 
-Each student will be given 5 (five) tokens, redeemable at any time during regular class time (subject to instructors' schedules), for 20 minutes. **Tokens cannot be transferred between students**
+Each student will be given 5 (five) tokens, redeemable at any time during regular class time (subject to instructors' schedules), for 20 minutes. **Tokens cannot be transferred between students.**
 
-Instructors will not be holding open office hours during project week. This is to give you the opportunity to solve issues and errors you run in to on your own and with your classmates. Your TA, however, will still hold their hours as planned.
+Instructors will not be holding open office hours during project week. This is to give you the opportunity to solve issues and errors you run in to on your own and with your classmates. However, your TA will still hold their hours as planned.
 
 ### How to submit a request for support <!-- omit in toc -->
 
-While it is important for you all to develope not only your coding skills but also you ability to debug code, please don't spin you wheels for too long. If you get stuck on an issue, we encourage you to attempt to fix it your self. This includes, reviewing your code, reading the error message and researching your issue through google. More often than not, that is enough to resolve your issue however if you find yourself spending too much time on one issue, create an issue ticket. This will provide the instructor with a point of reference regarding your code and the issue you are having and will enable us to give you more effective guidance.
+While it is important for you to develop not only your coding skills but also your ability to debug code, please don't spin your wheels for too long. If you get stuck on an issue, we encourage you to attempt to fix it yourself. This includes: reviewing your code, reading the error message, and researching your issue through google. More often than not, that is enough to resolve your issue, however if you find yourself spending too much time on one issue, create an issue ticket. This will provide the instructor with a point of reference regarding your code and the issue you are having and will enable us to give you more effective guidance.
 
 > [Project Issue Ticket Template](./issue-ticket-template.md)
 
