@@ -23,11 +23,11 @@ You are one week away from graduating your Software Engineering Immersive... Nee
 
 ## Important Dates
 
-> **Pitches Due:** 6/8/20 at 10:00AM
+> **Pitches Due:** Monday, 7/13/20 at 9:00AM
 >
-> **_Something_ Deployed (Strong Recommendation) By:** 6/12/20 by 5:00PM
+> **_Something_ Deployed (Strong Recommendation) By:** Friday, 7/17/20 by 5:00PM
 > 
-> **Presentations:** 6/16/20 at 10:00AM
+> **Presentations:** Wednesday, 7/22/20 at 10:00AM
 
 <br>
 
@@ -44,17 +44,15 @@ This project, like the others, will be a portfolio piece... **Your ultimate port
 ### Planning <!-- omit in toc -->
 
 - Have a **thoroughly** developed `README.md` file. (Refer below to _"Pitch Your Project Idea"_ for more.)
+  - Copy the raw markdown from the [project planning template](https://git.generalassemb.ly/sei-nyc-neptune/project-4/blob/master/README-template.md) to get started.
 
 ### Server (Back End) <!-- omit in toc -->
 
 - Have a **RESTful JSON API**.
   - Build a **Ruby on Rails** server, exposing RESTful JSON endpoints.
   - Build a database with at least 3 tables:
-    - 1 user table
-    - 2 other tables, of your choosing
     - There must be at least 1 association between your tables. (1:m _or_ m:m)
   - Utilize **Rails** to define models for interacting with the database.
-  - Implement Authentication using **JWT**.
   - Implement working generic controller actions for full-CRUD (`index`, `show`, `create`, `update`, `delete`) between the 2 non-user tables AND partial-CRUD (`create`, at least) for the user table.
 
 ### Client (Front End) <!-- omit in toc -->
@@ -66,17 +64,13 @@ This project, like the others, will be a portfolio piece... **Your ultimate port
   - Use _only_ React for DOM Manipulation.
 - Consume data from your **Ruby on Rails API**, and render that data in your components.
 - Utilize **React Router**, for client-side routing.
-- Utilize Authentication, permitting the user to:
-  - Register, login, and send authenticated requests.
-  - Perform `index` or `show` actions, **whether or not they are logged in**.^
-  - Perform `create`, `update`, and `delete` actions **when logged in**.
-
-_^ Unless it makes sense for that information to be restricted to particular users._
+- Demonstrate full CRUD ( `index`, `show`, `create`, `update`, and `delete` ) on the front-end for at least 1 table.
+  - *Note that if you decide to implement Auth, your CRUD actions must be created for 1 of your other tables.*
 
 ### Styling <!-- omit in toc -->
 
 - Be styled with CSS (or SCSS, if you'd prefer).
-- Use flexbox or Grid in your layout design.
+- Use Flexbox or Grid in your layout design.
 - Implement 2 media queries for responsive design on 3 screen sizes (including desktop).
 
 ### Linting <!-- omit in toc -->
@@ -89,7 +83,7 @@ _^ Unless it makes sense for that information to be restricted to particular use
 
 ### Deployment <!-- omit in toc -->
 
-- Deploy the fully functional front-end via Surge or netlify.
+- Deploy the fully functional front-end via Surge or Netlify.
 - Deploy the back-end via Heroku.
 
 ### Procedural <!-- omit in toc -->
@@ -128,7 +122,9 @@ Before you start coding away, you will meet with all your instructors for a 5 mi
 > ["How detailed should wireframes be?"](https://justuxdesign.com/blog/wireframe-fidelity)
 >
 > [Wireframe.cc](https://wireframe.cc/)
-
+> 
+> [Whimsical](https://whimsical.com/)
+> 
 > [lucidchart](https://www.lucidchart.com/)
 >
 > [draw.io](https://www.draw.io/)
@@ -209,4 +205,4 @@ Remember, your certificate of completion and Outcomes support eligibility will b
 
 # PLAGIARISM
 
-Remember. We have a **zero tolerance policy** towards plagiarism. More on our plagiarism policy can be found in our course wiki's [plagiarism policy page](https://git.generalassemb.ly/sei-nyc-supernovas/class-info/blob/master/policies/plagiarism.md).
+Remember. We have a **zero tolerance policy** towards plagiarism. More on our plagiarism policy can be found in our course wiki's [plagiarism policy page](https://git.generalassemb.ly/sei-nyc-neptune/class-info/blob/master/policies/plagiarism.md).
