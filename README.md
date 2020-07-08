@@ -23,11 +23,9 @@ You are one week away from graduating your Software Engineering Immersive... Nee
 
 ## Important Dates
 
-> **Pitches Due:** Monday, 7/13/20 at 9:00AM
->
-> **_Something_ Deployed (Strong Recommendation) By:** Friday, 7/17/20 by 5:00PM
-> 
-> **Presentations:** Wednesday, 7/22/20 at 10:00AM
+- **Pitches Due:** Monday, 7/13/20 at 9:00AM
+- **_Something_ Deployed (Strong Recommendation) By:** Friday, 7/17/20 by 5:00PM
+- **Presentations:** Wednesday, 7/22/20 at 10:00AM
 
 <br>
 
@@ -53,7 +51,8 @@ This project, like the others, will be a portfolio piece... **Your ultimate port
   - Build a database with at least 3 tables:
     - There must be at least 1 association between your tables. (1:m _or_ m:m)
   - Utilize **Rails** to define models for interacting with the database.
-  - Implement working generic controller actions for full-CRUD (`index`, `show`, `create`, `update`, `delete`) between the 2 non-user tables AND partial-CRUD (`create`, at least) for the user table.
+  - Implement working generic controller actions for full-CRUD (`index`, `show`, `create`, `update`, `delete`) between your non-User tables 
+    - _Note that if you choose to do Authentication, CRUD on your User table does not count toward this requirement._
 
 ### Client (Front End) <!-- omit in toc -->
 
@@ -64,8 +63,8 @@ This project, like the others, will be a portfolio piece... **Your ultimate port
   - Use _only_ React for DOM Manipulation.
 - Consume data from your **Ruby on Rails API**, and render that data in your components.
 - Utilize **React Router**, for client-side routing.
-- Demonstrate full CRUD ( `index`, `show`, `create`, `update`, and `delete` ) on the front-end for at least 1 table.
-  - *Note that if you decide to implement Auth, your CRUD actions must be created for 1 of your other tables.*
+- Demonstrate full CRUD actions ( `index`, `show`, `create`, `update`, and `delete` ) on the front-end.
+  - _Note that if you decide to implement Auth, your full CRUD actions must be covered amongst your non-User tables._
 
 ### Styling <!-- omit in toc -->
 
