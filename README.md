@@ -151,7 +151,9 @@ Instructors will not be holding open office hours during project week. This is t
 
 ### How to submit a request for support <!-- omit in toc -->
 
-While it is important for you to develop not only your coding skills but also your ability to debug code, please don't spin your wheels for too long. If you get stuck on an issue, we encourage you to attempt to fix it yourself. This includes: reviewing your code, reading the error message, and researching your issue through google. More often than not, that is enough to resolve your issue, however if you find yourself spending too much time on one issue, create an issue ticket. This will provide the instructor with a point of reference regarding your code and the issue you are having and will enable us to give you more effective guidance.
+While it is important for you to develop not only your coding skills but also your ability to debug code, please don't spin your wheels for too long. If you get stuck on an issue, we encourage you to attempt to fix it yourself. This includes: reviewing your code, reading the error message, and researching your issue through google. 
+
+More often than not, that is enough to resolve your issue, however if you find yourself spending too much time on one issue, create an issue ticket. This will provide the instructor with a point of reference regarding your code and the issue you are having and will enable us to give you more effective guidance.
 
 > [Project Issue Ticket Template](./issue-ticket-template.md)
 
@@ -161,9 +163,7 @@ We will be providing a survey link to sign up for support. You must include in t
 
 # EVALUATION
 
-Your instructors will evaluate your project and determine if it is complete or incomplete. We use the following rubric for our evaluation, but ultimately it is up to your instructors as to whether your project is complete or incomplete.
-
-We will evaluate your project according to the following criteria:
+Your instructors will evaluate your project and determine if it is complete or incomplete based on the following criteria.
 
 - **Code Quality:** Is the code well formatted? Are variable and function names
   semantic and sensible? Is the code easy to read and understand?
@@ -178,21 +178,6 @@ We will evaluate your project according to the following criteria:
   makes sense?
 - **Presentation:** Is there adequate documentation? Is the repository well
   organized and free of clutter?
-
-## Scoring <!-- omit in toc -->
-
-Each of the above categories will be scored according to the following:
-
-| Score | Description |
-| ----- | ----------- |
-| 0     | Incomplete  |
-| 1     | Progressing |
-| 2     | Performing  |
-| 3     | Excelling   |
-
-For a project to be considered complete, you must achieve at least "Progressing"
-in each category. However, at a minimum, you should aim to achieve "Performing"
-in every category.
 
 ## Incomplete Projects <!-- omit in toc -->
 
