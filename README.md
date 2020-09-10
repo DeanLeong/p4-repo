@@ -2,7 +2,6 @@
 
 # PROJECT 4: Your Full Stack App <!-- omit in toc -->
 
-![](https://bestanimations.com/Earth&Space/Planets/neptune-planet-animation-5.gif)
 
 **One. More. Project.**
 
