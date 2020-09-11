@@ -3,6 +3,8 @@
 
 # PROJECT 4: Your Full Stack App <!-- omit in toc -->
 
+<img src="./bee_logo_flat.png" width="300" height="300"/>
+
 
 **One. More. Project.**
 
