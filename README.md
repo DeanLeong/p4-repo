@@ -191,4 +191,4 @@ Remember, your certificate of completion and Outcomes support eligibility will b
 
 # PLAGIARISM
 
-Remember. We have a **zero tolerance policy** towards plagiarism. More on our plagiarism policy can be found in our course wiki's [plagiarism policy page](https://git.generalassemb.ly/sei-nyc-bees/class-info/blob/master/policies/plagiarism.md).
+Remember. We have a **zero tolerance policy** towards plagiarism. More on our plagiarism policy can be found in our course wiki's [plagiarism policy page](https://git.generalassemb.ly/sei-nyc-bees/class-info/blob/master/plagiarism-policy.md).
