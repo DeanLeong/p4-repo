@@ -3,7 +3,7 @@
 
 # PROJECT 4: Your Full Stack App <!-- omit in toc -->
 
-<img src="./bee_logo_flat.png" width="300" height="300"/>
+![](https://media2.giphy.com/media/l0HlSfN5Utw8PiRRS/giphy.gif)
 
 
 **One. More. Project.**
