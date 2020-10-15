@@ -44,7 +44,7 @@ This project, like the others, will be a portfolio piece... **Your ultimate port
 ### Planning <!-- omit in toc -->
 
 - Have a **thoroughly** developed `README.md` file. (Refer below to _"Pitch Your Project Idea"_ for more.)
-  - Copy the raw markdown from the [project planning template](https://git.generalassemb.ly/sei-nyc-neptune/project-4/blob/master/README-template.md) to get started.
+  - Copy the raw markdown from the [project planning template](./README-template.md) to get started.
 
 ### Server (Back End) <!-- omit in toc -->
 
