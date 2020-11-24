@@ -3,9 +3,6 @@
 
 # PROJECT 4: Your Full Stack App <!-- omit in toc -->
 
-![](https://media2.giphy.com/media/l0HlSfN5Utw8PiRRS/giphy.gif)
-
-
 **One. More. Project.**
 
 You are one week away from graduating your Software Engineering Immersive... Needless to say, we're incredibly proud, and you should be too!
