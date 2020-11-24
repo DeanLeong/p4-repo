@@ -24,7 +24,7 @@ You are one week away from graduating your Software Engineering Immersive... Nee
 
 ## Important Dates
 
-- **Pitches Due:** Monday, 10/19/20 at 9:00AM
+- **Pitches Due:** Monday, 11/30/20 at 10:00AM
 
 <br>
 
